@@ -1,0 +1,12 @@
+vers1 = "hoi,"
+vers2 = "hello world!"
+vers3 = "ik ben Davey,"
+vers4 = "ik kom uit Beverwijk,"
+vers5 = "ik vind gamen heel leuk,"
+vers6 = "maar ik vind school niet leuk,"
+vers7 = "ik speel Destiny super veel,"
+vers8 = "ik was een aspirant,"
+vers9 = "aspirant bij jeugdbrandweer,"
+vers10 = "in Beverwijk,"
+vers11 = "doei!"
+print(vers1,vers2,vers3,vers4,vers5,vers6,vers7,vers8,vers9,vers10,vers11)
