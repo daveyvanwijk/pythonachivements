@@ -5,7 +5,7 @@
 10 / 3
 10 // 3
 
-# Verander <JOUW NAAM HIER> in je eigen naam
+# Verander davey in je eigen naam
 print('Mijn naam is davey')
 naam = 'davey'
 print(naam)
